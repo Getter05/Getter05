@@ -1,7 +1,10 @@
-Hey, it's Matthew Getter
+Hey, it's Matthew Getter.
 I'm a homechool student and am interested in coding so I took a class on it from bethel tech this year
-I'm a senior and can't decide between trying to be an engineer or maybe looking into cyber-security
+
+I'm a senior and haven't decide between trying to be an engineer at Virginia Tech or maybe continuing with cyber security with Bethel
+
 In my free time I enjoy swimming competitively, riding dirt bikes and snowboarding with friends
+
 I'm looking foward to the rest of this year!
 
 
